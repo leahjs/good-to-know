@@ -1,0 +1,3 @@
+Git
+Delete a local git branch using:
+`git branch -d branch_name`
